@@ -1,12 +1,14 @@
-# Pancake Factory
+# EtherFlyer Factory
 
-[![Actions Status](https://github.com/pancakeswap/pancake-swap-core/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancake-swap-core/actions)
-
-In-depth documentation on PancakeSwap is available at [docs.pancakeswap.finance](https://docs.pancakeswap.finance/).
+EtherFlyer core  is based on uniswap & pancakeswap.
 
 # Local Development
 
-The following assumes the use of `node@>=10`.
+The following assumes the use of
+
+--  Ubuntu 18.04.6 LTS
+
+-- `node v10.24.1`.
 
 ## Install Dependencies
 
