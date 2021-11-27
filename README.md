@@ -1,6 +1,6 @@
 # EtherFlyer Factory
 
-EtherFlyer core  is based on uniswap & pancakeswap.
+EtherFlyer core  is based on uniswap & etherflyer.
 
 # Local Development
 
